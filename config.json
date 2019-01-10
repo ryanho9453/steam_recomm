@@ -1,0 +1,16 @@
+{
+  "lda_model": {
+      "alpha": 0.05,
+      "beta": 0.05,
+      "n_topics": 50,
+      "maxiter": 40,
+      "use_prior_cluster": true,
+      "eval": {
+          "maxiter": 10,
+          "n_predict": 10
+
+      }
+
+  }
+
+}
